@@ -1,67 +1,64 @@
-<div align="center">
-  <img height="150" src="https://www.andreipau.me/_next/image?url=%2Fassets%2Flogo1.png&w=128&q=75"  />
-</div>
+<h1 align="center">Hi, I'm Andrei 👋</h1>
 
-###
+<p align="center">
+  Full Stack Developer · React · Next.js · TypeScript<br />
+  Based in Brașov, Romania
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://www.andreipau.me/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WEBSITE&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tutanota logo"  />
+<p align="center">
+  <a href="https://a2web.solutions">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/andrei-george-paunescu-916a28209/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-###
+## About me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PauOnJava.PauOnJava&"  />
-</div>
+I build web applications for clients, working across React and Next.js frontends and TypeScript backends. As Administrator and Lead Developer at **a² web solutions**, I combine hands-on development with technical coordination and client collaboration, from understanding requirements to deployment.
 
-###
+My portfolio is built around client projects. I care about making interfaces easy to use and keeping the code behind them clear and maintainable.
 
-<h1 align="center">hey there 👋</h1>
+I'm also pursuing an engineering degree in robotics and automation at **Transilvania University of Brașov**.
 
-###
+## Experience
 
-<h3 align="left">👩‍💻  About Me</h3>
+**Administrator / Lead Developer — a² web solutions**  
+March 2025 – Present
 
-###
+- Build client web applications with React, Next.js, and Tailwind CSS, with backend development in TypeScript.
+- Contribute to architecture, implementation, and deployment.
+- Coordinate development work and collaborate with clients to turn business requirements into working software.
 
-<br clear="both">
+**Frontend Developer Intern — IBM**  
+June 2026 – September 2026
 
-<p align="left">Hi! 👋 I'm Andrei, turning coffee into clean and efficient code, straight from Brasov.<br><br>    🔭 I'm working as a creator of digital experiences, specializing in front-end with React and TypeScript.<br>    📚 I'm currently learning Next.js and Tailwind CSS to take web interfaces to the next level.<br>    ⚡ In my free time, I build fun side projects, go hiking, or get lost in a good book.</p>
+- Turned Figma UI/UX designs into functional, responsive frontend components in close collaboration with the team.
+- Participated in code reviews to maintain code quality, consistency, and development standards.
+- Joined weekly coordination meetings to track progress and align tasks with project milestones.
+- Wrote clean, maintainable UI code, turning design prototypes into a cohesive user experience.
 
-###
+## Tech stack
 
-<h3 align="left">🛠 Language and tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-###
+- **Frontend:** React, Next.js, responsive interfaces, Tailwind CSS
+- **Backend:** TypeScript
+- **Development:** Figma-to-code implementation, code reviews, deployment
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+## My setup
 
-###
+I have used Linux extensively and am comfortable with its workflow. These days, I work on an **Arch Linux setup I configured and customized myself**, alongside **macOS**.
 
-<h3 align="left">🔥   My Stats :</h3>
+## Projects and contact
 
-###
+Explore my client work on [my portfolio](https://www.a2web.solutions/) and my public repositories on [GitHub](https://github.com/PauOnJava?tab=repositories).
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PauOnJava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=PauOnJava&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+Want to discuss a role or a project? Reach me at **[andrei.paunescu@student.unitbv.ro](mailto:andrei.paunescu@student.unitbv.ro)** or connect on **[LinkedIn](https://www.linkedin.com/in/andrei-george-paunescu-916a28209/)**.
